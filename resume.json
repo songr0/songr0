@@ -3,7 +3,6 @@
     "educationList": "教育背景",
     "workExpList": "工作经历",
     "projectList": "项目经验",
-    "skillList": "常用技能",
     "awardList": "更多信息",
     "aboutme": "个人评价"
   },
@@ -49,7 +48,7 @@
   "workExpList": [
     {
       "company_name": "字节跳动",
-      "department_name": "质量架构-后端研发工程师",
+      "department_name": "质量架构-后端研发",
       "work_time": [
         "2022.01",
         "2023.06"
@@ -58,7 +57,7 @@
     },
     {
       "company_name": "腾讯",
-      "department_name": "Fit金融科技",
+      "department_name": "Fit金融科技-测试开发",
       "work_time": [
         "2023.11",
         "至今"
@@ -66,7 +65,6 @@
       "work_desc": "负责金融产品（如转账、风控链路）的服务端测试与测试工具链建设，主要为\r\n1. 参与流量测试工具开发：支持录制回放与请求差异化比对，提升回归效率\r\n2. 基于 AI 辅助生成接口测试用例：利用历史流量与接口定义自动生成参数组合，提高用例覆盖率\r\n本次工作通过体验业务场景，对软件测试有了更深入和贴近企业生产的测试经验。"
     }
   ],
-  "skillList": ["Java", "Go", "Python"],
   "projectList": [
     {
       "project_name": "CodeWisdom平台 | 复旦大学 软件工程实验室",
@@ -77,7 +75,7 @@
     }
   ],
   "aboutme": {
-    "aboutme_desc": "🌱 兼具学术研究与一线大厂工程落地经验\n工作内容集中于软件质量，涉及测试场景包括流量回放、并发测试、性能回归、异常注入、接口自动化测试等。"
+    "aboutme_desc": "🌱 专注软件质量领域，具备深入研究与一线大厂工程落地经验。工作内容集中于：\n软件质量，涉及测试场景包括流量回放、并发测试、性能回归、异常注入、接口自动化测试等。"
   },
   "theme": {
     "color": "#2f5785",
