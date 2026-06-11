@@ -14,7 +14,7 @@
     "name": "宋瑞",
     "email": "736xxxx86@qq.com",
     "mobile": "156xxxx7119",
-    "work-place": "深圳"
+    "work-exp-year": "4年"
   },
   "educationList": [
     {
@@ -79,6 +79,6 @@
   },
   "theme": {
     "color": "#2f5785",
-    "tagColor": "#8bc34a"
+    "tagColor": "#2f5785"
   }
 }
