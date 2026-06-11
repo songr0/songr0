@@ -16,48 +16,39 @@
     "name": "宋瑞",
     "email": "736xxxx86@qq.com",
     "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "workExpYear": "4"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2019.09.01",
+        "2022.01.11"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "复旦大学",
+      "major": "软件工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "复旦大学计算机科学技术学院原型竞赛二等奖",
+      "award_time": "2021.12"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "ChinaSoft2022软件研究成果原型系统竞赛优胜奖",
+      "award_time": "2022.12"
     }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
+      "company_name": "字节跳动",
+      "department_name": "质量架构-后端研发工程师",
       "work_time": [
-        "2018.06",
-        null
+        "2022.01",
+        "2023.06"
       ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "work_desc": ": 参与企业级 RPC 流量录制与回放系统的后端研发，支撑服务接口层的高效回归测试\r\n负责异常测试:设计和实现超时、db和rpc层面异常注入等场景的回放异常校验机制\r\n实现流量并发回放：控制并发度与请求顺序，复现多线程竞争场景下的接口异常
+      \r\n建立性能回归基线：对比历史回放数据的响应时间与吞吐量，自动标记性能劣化，降低人工回归成本"
     },
     {
       "company_name": "蚂蚁金服",
